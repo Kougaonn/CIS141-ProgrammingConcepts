@@ -1,10 +1,11 @@
 # Boolean Truth Table 
 
 # if A or not B:
-#   True True = True
-#   False True = False
-#   True False = True
-#   False False = True
+# A B    A or B    A or not B
+# T T    T        T
+# T F    T        T
+# F T    T        F
+# F F    F        T
 
 # Headlights
 
