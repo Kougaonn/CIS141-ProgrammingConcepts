@@ -3,11 +3,8 @@ import math
 # Sum List
 
 listA = [1,5,6,7,4,6,4]
-varA = 0
+varA = sum(listA)
 
-for i in range(len(listA)):
-    varA = varA + listA[i]
-    
 print(varA)
 
 print('\n' + '*'*8 + '\n')
